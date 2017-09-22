@@ -38,5 +38,8 @@ A sample interaction follows:
 `switch 3 2`  Toggle the light at row 3, column 2  
 etc...  
 
+Here is a screenshot of this game
+![A screenshot of this game](/image.png)
+
 Enjoy the game!
 
